@@ -1,0 +1,51 @@
+/* Footer.css */
+.footer {
+    background:black;
+    color: white;
+  }
+  
+  .footer-heading {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: white;
+  }
+  
+  .footer-text {
+    font-size: 0.9rem;
+    color: #ddd;
+  }
+  
+  .footer-link {
+    color: #ddd;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-link:hover {
+    color:whitesmoke;
+  }
+  
+  .footer-social-link {
+    color:white;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-social-link:hover {
+    color: whitesmoke;
+  }
+  
+  .btn-primary {
+    background-color: black;
+    border: none;
+    color: #000;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color:whitesmoke;
+  }
+  
+  .border-secondary {
+    border-color: #444 !important;
+  }
